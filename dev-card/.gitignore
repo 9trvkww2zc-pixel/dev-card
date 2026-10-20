@@ -1,0 +1,6 @@
+.Ds_Store
+Thumbs.com
+.vscode/
+.idea/
+.env
+*.log
